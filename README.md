@@ -9,6 +9,9 @@ Discord sunucum: https://discord.gg/pqMjS8TarW
 Güncelleme:
 
 -Ekmek/su gibi itemler kullanınca hata veriyordu + envanterden gitmiyordur, sorun fixlendi
+
 -Ölünce siyah ekranda kalıyordu ve E çekince itemler gitmiyordu, sorun fixlendi
+
 -Bazı meslekler değiştirildi (şimdi hata vermeden çalışıyor)
+
 -Envanter bütün mesleklere uyumlu değildir, sizin yapmanız lazım
